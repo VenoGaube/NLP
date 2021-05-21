@@ -8,7 +8,7 @@ Our general model was trained on different corpora from **OpenSubtitles 2018**, 
 
 ## Instructions
 
-We would recommand using the **machine_translation.ipynb** file in Google Colab. The file is structured in a way that will guide you through the whole process of machine translation, starting with setting up the evironment, building the vocabulary out of the corpora, training the model and finally translating texts of choice.
+We would recommand using the **Machine_Translator.ipynb** file in Google Colab. The file is structured in a way that will guide you through the whole process of machine translation, starting with setting up the evironment, building the vocabulary out of the corpora, training the model and finally translating texts of choice.
 
 
 
